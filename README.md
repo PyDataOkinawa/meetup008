@@ -31,6 +31,8 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
 - 発表者：玉城さん
 - 10:30-11:15
+- 資料 ・・・ business_clustering/ の中
+
 
 ## [kaggle](https://www.kaggle.com/)ハンズオンチュートリアル
 
