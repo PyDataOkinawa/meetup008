@@ -26,12 +26,19 @@ by Makoto Otsuka [@makotsuka55](https://twitter.com/makotsuka55)
 
 - 発表者：岩村さん
 - 9:30-10:15
+- 資料
+  - [YouseiDokuhon_2-2-3_list1.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list1.ipynb)
+  - [YouseiDokuhon_2-2-3_list2.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list2.ipynb)
+  - [YouseiDokuhon_2-2-3_list3.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list3.ipynb)
+  - [YouseiDokuhon_2-2-3_list4.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list4.ipynb)
+  - [YouseiDokuhon_2-2-3_list5-6.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list5-6.ipynb)
+  - [YouseiDokuhon_2-2-3_list7.ipynb](https://github.com/PyDataOkinawa/meetup008/blob/master/YouseiDokuhon_2-2-3_list7.ipynb)
 
 ## 養成読本　第１部　特集３ ビジネスに導入する機械学習 by 玉城さん
 
 - 発表者：玉城さん
 - 10:30-11:15
-- 資料 ・・・ business_clustering/ の中
+- 資料 ・・・ [business_clustering/](https://github.com/PyDataOkinawa/meetup008/tree/master/business_clustering) の中
 
 
 ## [kaggle](https://www.kaggle.com/)ハンズオンチュートリアル
